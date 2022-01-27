@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nivpal
-- 👀 I’m interested in Blockchain and Analytics...
-- 🌱 I’m currently learning lot :) start with Azure ,  analytics and Blockchain.
-- 💞️ I’m looking to collaborate on block chain and analytics projects and or people who are interest learn and grow with me. 
+- 👀 I’m interested in DataEngineering and Analytics...
+- 🌱 I’m currently learning lot :) start with Azure,AWS, GCP Data Engineering analytics and DevOps.
+- 💞️ I’m looking to collaborate on data engineering and and analytics projects and or people who are interest learn and grow with me. 
 - 📫 How to reach me ... nivpalle@gmail.com
       
 <!---
